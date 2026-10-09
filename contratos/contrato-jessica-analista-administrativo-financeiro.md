@@ -39,21 +39,21 @@ Resolvem as partes celebrar o presente Contrato de Prestação de Serviços Prof
 
 1.2. No âmbito do objeto contratual, caberá à CONTRATADA, entre outras atividades compatíveis com sua qualificação técnica e com as necessidades operacionais da CONTRATANTE:
 
-a) Estruturar, organizar e acompanhar as rotinas financeiras do grupo, incluindo contas a pagar, contas a receber, conciliação financeira, fluxo de caixa e previsibilidade de caixa;
+a) Executar as rotinas de contas a pagar, incluindo recebimento, conferência e lançamento de boletos, notas fiscais, guias e faturas, programação dos pagamentos para aprovação da CONTRATANTE e arquivamento dos respectivos comprovantes;
 
-b) Elaborar, revisar e acompanhar relatórios financeiros, demonstrativos gerenciais, DRE gerencial, indicadores de desempenho financeiro, análises de resultado e projeções financeiras;
+b) Executar as rotinas de contas a receber, incluindo registro dos valores a receber, baixa dos recebimentos, acompanhamento de vencimentos e apoio à cobrança de clientes inadimplentes, conforme orientações da CONTRATANTE;
 
-c) Apoiar a definição e o acompanhamento de orçamento, centros de custo, metas financeiras, controle de despesas, margens, custos fixos, custos variáveis e rentabilidade por unidade de negócio;
+c) Realizar as conciliações bancárias e de cartões, plataformas de pagamento e recebíveis, identificando e reportando eventuais divergências;
 
-d) Acompanhar processos de faturamento, emissão de notas fiscais, recebíveis, inadimplência, cobranças, conferências e controles financeiros necessários à segurança da operação;
+d) Manter atualizados o fluxo de caixa realizado e o projetado, alimentando planilhas, sistemas e controles que assegurem a previsibilidade de caixa;
 
-e) Realizar interface técnica com contabilidade, fiscal, jurídico, áreas internas, fornecedores, bancos, plataformas financeiras e demais parceiros relacionados à operação financeira;
+e) Apoiar o faturamento e a emissão de notas fiscais, bem como controlar as notas fiscais emitidas e recebidas;
 
-f) Propor melhorias de processos, fluxos, controles internos, políticas financeiras, rotinas de autorização, governança financeira e padronização documental;
+f) Organizar e encaminhar à contabilidade, nos prazos definidos, extratos, notas fiscais, comprovantes e demais documentos necessários ao fechamento mensal;
 
-g) Acompanhar indicadores estratégicos e operacionais do setor financeiro, reportando informações, riscos, desvios, inconsistências e oportunidades de melhoria à CONTRATANTE;
+g) Organizar, padronizar e manter atualizado o arquivo físico e digital de documentos financeiros e administrativos, incluindo contratos, cadastros de fornecedores e controles de vencimentos;
 
-h) Apoiar a organização documental, registro de informações financeiras, criação de dashboards, planilhas, relatórios, sistemas e controles necessários à adequada gestão financeira;
+h) Elaborar e manter atualizados os relatórios, planilhas e controles operacionais definidos pela CONTRATANTE, fornecendo à gestão e à diretoria informações confiáveis e tempestivas para a tomada de decisões;
 
 i) Atuar de forma técnica, ética e sigilosa na manipulação de dados financeiros, fiscais, bancários, contábeis, societários, contratuais e comerciais da CONTRATANTE.
 
